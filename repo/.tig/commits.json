@@ -1,0 +1,21 @@
+[
+    {
+        "id": "5fffab15-2bfb-4b",
+        "date": "2024-12-03 10:03:03",
+        "message": "Initial commit",
+        "files": {
+            "file.txt": "8a9faaa11f8ea34f",
+            "other_file.txt": "e0355a6d7c090baa"
+        },
+        "timestamp": "1733220183"
+    },
+    {
+        "id": "93db454d-620f-44",
+        "date": "2024-12-03 10:03:48",
+        "message": "Updated content in file.txt",
+        "files": {
+            "file.txt": "6aa446454d561a7a"
+        },
+        "timestamp": "1733220228"
+    }
+]
